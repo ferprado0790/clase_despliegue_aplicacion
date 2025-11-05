@@ -1,0 +1,1 @@
+version 1 de la clase de de git para despliegue de aplicaciones.
